@@ -1,5 +1,11 @@
 ## Version 1.0.2 (4/19/2026)
 
+No changes detected since last release.
+
+---
+
+## Version 1.0.2 (4/19/2026)
+
 * chore: update app icons and remove unused react logo assets
 * refactor: implement centralized versioning via VERSION file and streamline release distribution workflow
 * chore: update distribution URLs to use GitHub Pages domain
