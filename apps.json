@@ -25,6 +25,14 @@
       "type": "ipa",
       "versions": [
         {
+          "version": "1.0.3",
+          "date": "2026-04-19T14:47:57.534Z",
+          "localizedDescription": "* feat: update app color palette and replace icon-based empty states with custom illustrations\n* feat: add new ogre-themed assets and update splash icon",
+          "downloadURL": "https://github.com/mario-iml/shracker-dist/releases/download/v1.0.3/shracker-v1.0.3.ipa",
+          "size": 15828986,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.0.2",
           "date": "2026-04-19T13:44:31.818Z",
           "localizedDescription": "No changelog provided.",

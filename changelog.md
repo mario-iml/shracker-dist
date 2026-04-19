@@ -1,3 +1,10 @@
+## Version 1.0.3 (4/19/2026)
+
+* feat: update app color palette and replace icon-based empty states with custom illustrations
+* feat: add new ogre-themed assets and update splash icon
+
+---
+
 ## Version 1.0.2 (4/19/2026)
 
 No changelog provided.
