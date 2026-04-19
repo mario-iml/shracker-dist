@@ -1,5 +1,11 @@
 ## Version 1.0.2 (4/19/2026)
 
+No changelog provided.
+
+---
+
+## Version 1.0.2 (4/19/2026)
+
 No changes detected since last release.
 
 ---

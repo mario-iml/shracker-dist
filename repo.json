@@ -1,14 +1,14 @@
 {
   "name": "Shracker Repository",
   "version": "1.0.2",
-  "date": "2026-04-19T13:26:01.773Z",
+  "date": "2026-04-19T13:35:25.426Z",
   "releases": [
     {
       "version": "1.0.2",
       "tag": "v1.0.2",
       "android": "https://github.com/mario-iml/shracker-dist/releases/download/v1.0.2/shracker-v1.0.2.apk",
       "ios": "https://github.com/mario-iml/shracker-dist/releases/download/v1.0.2/shracker-v1.0.2.ipa",
-      "changelog": "No changes detected since last release."
+      "changelog": "No changelog provided."
     }
   ]
 }
