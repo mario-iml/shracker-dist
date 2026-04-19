@@ -9,12 +9,12 @@
       "android": "https://github.com/mario-iml/shracker-dist/releases/download/v1.0.1/shracker-v1.0.1.apk",
       "ios": "https://github.com/mario-iml/shracker-dist/releases/download/v1.0.1/shracker-v1.0.1.ipa",
       "screenshots": [
-        "https://raw.githubusercontent.com/mario-iml/shracker-dist/refs/heads/main/screenshots/s1.PNG",
-        "https://raw.githubusercontent.com/mario-iml/shracker-dist/refs/heads/main/screenshots/s2.PNG",
-        "https://raw.githubusercontent.com/mario-iml/shracker-dist/refs/heads/main/screenshots/s3.PNG",
-        "https://raw.githubusercontent.com/mario-iml/shracker-dist/refs/heads/main/screenshots/s4.PNG",
-        "https://raw.githubusercontent.com/mario-iml/shracker-dist/refs/heads/main/screenshots/s5.PNG",
-        "https://raw.githubusercontent.com/mario-iml/shracker-dist/refs/heads/main/screenshots/s6.PNG"
+        "https://mario-iml.github.io/shracker-dist/screenshots/s1.PNG",
+        "https://mario-iml.github.io/shracker-dist/screenshots/s2.PNG",
+        "https://mario-iml.github.io/shracker-dist/screenshots/s3.PNG",
+        "https://mario-iml.github.io/shracker-dist/screenshots/s4.PNG",
+        "https://mario-iml.github.io/shracker-dist/screenshots/s5.PNG",
+        "https://mario-iml.github.io/shracker-dist/screenshots/s6.PNG"
       ],
       "changelog": "* docs: update distribution source URLs to raw GitHub content links\n* chore: update expo run scripts and implement manual xcodebuild IPA packaging in distribution script\n* feat: implement local distribution script and update app configuration for release automation"
     }
