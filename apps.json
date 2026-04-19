@@ -1,0 +1,21 @@
+{
+  "name": "Shracker",
+  "identifier": "com.mario.shracker.source",
+  "sourceURL": "https://mario-iml.github.io/shracker-dist/apps.json",
+  "apps": [
+    {
+      "name": "Shracker",
+      "bundleIdentifier": "com.mario.shracker",
+      "developerName": "Mario",
+      "version": "1.0.1",
+      "versionDate": "2026-04-19T10:24:56.134Z",
+      "versionDescription": "* chore: update expo run scripts and implement manual xcodebuild IPA packaging in distribution script\n* feat: implement local distribution script and update app configuration for release automation",
+      "downloadURL": "https://github.com/mario-iml/shracker-dist/releases/download/v1.0.1/shracker-v1.0.1.ipa",
+      "localizedDescription": "Shisha Tracker app for tracking your sessions and inventory.",
+      "iconURL": "https://mario-iml.github.io/shracker-dist/icon.png",
+      "screenshots": [],
+      "size": 0,
+      "type": "ipa"
+    }
+  ]
+}
