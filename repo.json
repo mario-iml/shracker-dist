@@ -1,14 +1,14 @@
 {
   "name": "Shracker Repository",
   "version": "1.0.1",
-  "date": "2026-04-19T10:30:27.568Z",
+  "date": "2026-04-19T10:39:46.946Z",
   "releases": [
     {
       "version": "1.0.1",
       "tag": "v1.0.1",
       "android": "https://github.com/mario-iml/shracker-dist/releases/download/v1.0.1/shracker-v1.0.1.apk",
       "ios": "https://github.com/mario-iml/shracker-dist/releases/download/v1.0.1/shracker-v1.0.1.ipa",
-      "changelog": "* chore: update expo run scripts and implement manual xcodebuild IPA packaging in distribution script\n* feat: implement local distribution script and update app configuration for release automation"
+      "changelog": "* docs: update distribution source URLs to raw GitHub content links\n* chore: update expo run scripts and implement manual xcodebuild IPA packaging in distribution script\n* feat: implement local distribution script and update app configuration for release automation"
     }
   ]
 }

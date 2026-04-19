@@ -12,20 +12,21 @@
       "versionDescription": "* chore: update expo run scripts and implement manual xcodebuild IPA packaging in distribution script\n* feat: implement local distribution script and update app configuration for release automation",
       "downloadURL": "https://github.com/mario-iml/shracker-dist/releases/download/v1.0.1/shracker-v1.0.1.ipa",
       "localizedDescription": "Shisha Tracker app for tracking your sessions and inventory.",
-      "iconURL": "https://mario-iml.github.io/shracker-dist/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/mario-iml/shracker-dist/refs/heads/main/icon.png",
       "screenshots": [],
       "size": 0,
       "type": "ipa",
       "versions": [
         {
           "version": "1.0.1",
-          "date": "2026-04-19T10:30:27.561Z",
-          "localizedDescription": "* chore: update expo run scripts and implement manual xcodebuild IPA packaging in distribution script\n* feat: implement local distribution script and update app configuration for release automation",
+          "date": "2026-04-19T10:39:46.939Z",
+          "localizedDescription": "* docs: update distribution source URLs to raw GitHub content links\n* chore: update expo run scripts and implement manual xcodebuild IPA packaging in distribution script\n* feat: implement local distribution script and update app configuration for release automation",
           "downloadURL": "https://github.com/mario-iml/shracker-dist/releases/download/v1.0.1/shracker-v1.0.1.ipa",
           "size": 13351074,
           "minOSVersion": "15.0"
         }
       ]
     }
-  ]
+  ],
+  "iconURL": "https://raw.githubusercontent.com/mario-iml/shracker-dist/refs/heads/main/icon.png"
 }
